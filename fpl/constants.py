@@ -1,5 +1,8 @@
 API_BASE_URL = "https://fantasy.premierleague.com/api/"
 
+#PAF
+#API_BASE_URL = "https://en.fantasy.allsvenskan.se/api/"
+
 API_URLS = {
     "dynamic": "{}bootstrap-dynamic/".format(API_BASE_URL),
     "fixtures": "{}fixtures/".format(API_BASE_URL),
